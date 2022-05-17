@@ -1,6 +1,0 @@
-testing file
-untesting file
-commit test
-Пока!
-как у тебя дела?
-Hi everyone
